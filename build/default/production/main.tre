@@ -1,0 +1,5 @@
+ÀÄBLINK_LED_PIC16F628A_CCS
+   ÀÄmain  0/23  Ram=1
+      ÃÄ@cinit1  (Inline)  Ram=0
+      ÃÄ@cinit2  (Inline)  Ram=0
+      ÀÄ@delay_ms1  0/21  Ram=1
